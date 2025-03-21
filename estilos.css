@@ -1,0 +1,103 @@
+div {
+
+border-radius: 10px;
+width: 400px;
+height: 600px;
+justify-content: center;
+align-items: center;
+background:linear-gradient(red 20%, white 30%);
+margin: auto;
+text-align: center;
+border: 10px solid black;
+}
+
+
+.espacio{
+    font-family: "Boldonse", system-ui;
+    font-weight: 400;
+    font-style: normal;
+      margin-top: 20px;
+      margin-bottom: 20px;
+}
+
+body {
+
+background:linear-gradient(white,red); 
+
+}
+
+.T {
+  position: relative;
+  top: 20px;
+    font-family: "Boldonse", system-ui;
+    font-weight: 400;
+    font-style: normal;
+    
+  }
+  
+
+.formulario {
+
+    border-radius: 10px;
+    width: 150px;
+    height: auto;
+    justify-content: center;
+    text-align: center;
+    background-color: red;
+    color: black;
+
+    border: 5px solid b;
+  
+      font-family: "Boldonse", system-ui;
+      font-weight: 400;
+      font-style: normal;
+    
+}
+
+.formulario2
+{
+  border-radius: 10px;
+  width: 150px;
+  height: auto;
+  justify-content: center;
+  text-align: center;
+  background-color: black;
+  color: white;
+  font-family: "Boldonse", system-ui;
+      font-weight: 400;
+      font-style: normal;
+}
+.formulario3
+{
+    border-radius: 10px;
+    width: 150px;
+    height: auto;
+    margin-bottom: 10px;
+    text-align: center;
+    background-color: red;
+    color: black;
+    position: relative;
+    left: 250px;
+    bottom: 184px;
+    font-family: "Boldonse", system-ui;
+      font-weight: 400;
+      font-style: normal;
+}
+
+.formulario4
+{
+    border-radius: 10px;
+    width: 150px;
+    height: auto;
+    margin-bottom: 10px;
+    text-align: center;
+    background-color: black;
+    color: white;
+    position: relative;
+    left: 250px;
+    bottom: 183px;
+    font-family: "Boldonse", system-ui;
+      font-weight: 400;
+      font-style: normal;
+}
+
